@@ -19,7 +19,7 @@ class Header extends Component {
             <NavItem eventKey={4} >Contact Us</NavItem> 
           </Nav>
           <Nav pullRight>
-          <NavItem>WeirdShot Films</NavItem>
+          <NavItem>Weirdshot Films</NavItem>
           </Nav>
           </Navbar>
         );
