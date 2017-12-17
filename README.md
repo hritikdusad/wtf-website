@@ -1,3 +1,3 @@
 # WTF- Website
-# I will be successfull one day
+# Stay Tuned Be Weird.
 Note: Currently under production
